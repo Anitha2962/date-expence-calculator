@@ -1,0 +1,7 @@
+D:\EQ SOFT\C#\date_expence calculator\bin\Debug\date_expence calculator.exe.config
+D:\EQ SOFT\C#\date_expence calculator\bin\Debug\date_expence calculator.exe
+D:\EQ SOFT\C#\date_expence calculator\bin\Debug\date_expence calculator.pdb
+D:\EQ SOFT\C#\date_expence calculator\obj\Debug\date_expence calculator.csproj.AssemblyReference.cache
+D:\EQ SOFT\C#\date_expence calculator\obj\Debug\date_expence calculator.csproj.CoreCompileInputs.cache
+D:\EQ SOFT\C#\date_expence calculator\obj\Debug\date_expence calculator.exe
+D:\EQ SOFT\C#\date_expence calculator\obj\Debug\date_expence calculator.pdb
